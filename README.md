@@ -1,4 +1,4 @@
-# Autenticacao-OAuth-Alfresco-Grafana
+# Autenticacao OAuth - Alfresco c/ Grafana
 Para integrar a autenticação do **Alfresco** com o **Grafana** usando o protocolo **OAuth**, é necessário configurar o Alfresco como um **provedor de OAuth** e o Grafana como um **cliente OAuth**, de modo que os usuários possam autenticar-se no Grafana utilizando suas credenciais do Alfresco.
 
 Segue o processo para configurar essa integração:
